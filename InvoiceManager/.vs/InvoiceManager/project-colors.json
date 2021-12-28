@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "37a7255f-c07e-49d5-866a-8e3058858ba4": {
+      "ProjectGuid": "37a7255f-c07e-49d5-866a-8e3058858ba4",
+      "DisplayName": "InvoiceManager",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
